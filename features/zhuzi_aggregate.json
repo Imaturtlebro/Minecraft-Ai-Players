@@ -1,0 +1,17 @@
+{
+    "format_version": "1.19.50",
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "zps:zhuzi_aggregate"
+        },
+        "features": [
+            [ "zps:zhuzi1", 2 ],
+            [ "zps:zhuzi2", 2 ],
+            [ "zps:zhuzi3", 2 ],
+            [ "zps:zhuzi4", 2 ],
+            [ "zps:zhuzi5", 2 ],
+            [ "zps:zhuzi6", 2 ],
+            [ "zps:zhuzi7", 2 ]
+        ]
+    }
+}

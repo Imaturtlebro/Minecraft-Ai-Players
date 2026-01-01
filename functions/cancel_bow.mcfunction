@@ -1,0 +1,12 @@
+event entity @s[tag=lv1] lv1_switch
+event entity @s[tag=lv2] lv2_switch
+event entity @s[tag=lv3] lv3_switch
+event entity @s[tag=lv4] lv4_switch
+event entity @s[tag=lv5] lv5_switch
+event entity @s[tag=lv6] lv6_switch
+scoreboard players random @s[tag=lv1] reaction 15 25
+scoreboard players random @s[tag=lv2] reaction 12 18
+scoreboard players random @s[tag=lv3] reaction 10 15
+scoreboard players random @s[tag=lv4] reaction 8 12
+scoreboard players random @s[tag=lv5] reaction 5 10
+scoreboard players random @s[tag=lv6] reaction 3 8

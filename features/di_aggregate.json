@@ -1,0 +1,23 @@
+{
+    "format_version": "1.19.50",
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "zps:di_aggregate"
+        },
+        "features": [
+            [ "zps:di1", 3 ],
+            [ "zps:di2", 4 ],
+            [ "zps:di3", 3 ],
+            [ "zps:di4", 4 ],
+            [ "zps:di5", 3 ],
+            [ "zps:di6", 4 ],
+            [ "zps:di7", 3 ],
+            [ "zps:di8", 4 ],
+            [ "zps:di9", 3 ],
+            [ "zps:di10", 4 ],
+            [ "zps:di11", 3 ],
+            [ "zps:di12", 4 ],
+            [ "zps:di13", 3 ]
+        ]
+    }
+}

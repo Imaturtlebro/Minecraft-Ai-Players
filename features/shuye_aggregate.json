@@ -1,0 +1,11 @@
+{
+    "format_version": "1.19.50",
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "zps:shuye_aggregate"
+        },
+        "features": [
+            [ "zps:shuye1", 2 ]
+        ]
+    }
+}

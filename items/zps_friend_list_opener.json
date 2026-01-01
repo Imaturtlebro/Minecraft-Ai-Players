@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.50",
+    "minecraft:item": {
+        "description": {
+            // 确保命名空间和物品名称唯一
+            "identifier": "zps:friend_list_opener",
+            // 可选：物品名称，将显示在游戏中（需要使用 lang/en_US.json 来本地化）
+            "category": "equipment" 
+        },
+        "components": {
+            // --- 核心组件 ---
+            
+            // 1. 外观：定义物品在物品栏中的样子
+            "minecraft:icon": {
+  "texture": "friend_list_opener"
+},
+            
+            
+            // 3. 堆叠：使其可以堆叠
+            "minecraft:max_stack_size": 64
+            
+            // 4. 交互：我们故意不在这里使用复杂的 interact 组件，
+            //    以保证玩家使用时，事件能顺利传递给 Script API。
+        }
+    }
+}
